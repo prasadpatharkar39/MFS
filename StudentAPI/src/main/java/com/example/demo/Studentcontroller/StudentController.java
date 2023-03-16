@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -87,12 +88,23 @@ public class StudentController {
 		}
 		
 		@GetMapping("/paging/{pageNo}/{pageSize}")
-		public ResponseEntity<Page<student>> getAllStudent(@PathVariable Integer pageNo, @PathVariable Integer pageSize){
+		public ResponseEntity<Page<student>> getAllStudent(@PathVariable Integer pageNo, @PathVariable Integer pageSize) {
 		    PageRequest pageable = PageRequest.of(pageNo, pageSize);
-		    Page<student> student = studentrepository.findAll(pageable);
-		    return new ResponseEntity<>(student, HttpStatus.OK);
+		    Page<student> page = studentrepository.findAll(pageable);
+		    long totalRecords = page.getTotalElements();
+		    int totalPages = page.getTotalPages();
+		    HttpHeaders headers = new HttpHeaders();
+		    headers.add("X-Total-Count", String.valueOf(totalRecords));
+		    headers.add("X-Total-Pages", String.valueOf(totalPages));
+		    return ResponseEntity.ok().headers(headers).body(page);
+		    
 		}
-			
+//		@GetMapping("/paging/{pageNo}/{pageSize}")
+//		public ResponseEntity<Page<student>> getAllStudent(@PathVariable Integer pageNo, @PathVariable Integer pageSize){
+//		    PageRequest pageable = PageRequest.of(pageNo, pageSize);
+//		    Page<student> student = studentrepository.findAll(pageable);
+//		    return new ResponseEntity<>(student, HttpStatus.OK);
+//		}
 		
 				
 			
