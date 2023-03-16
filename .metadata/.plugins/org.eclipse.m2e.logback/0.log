@@ -255,3 +255,23 @@
 2023-03-16 11:06:57,522 [Worker-37: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
 2023-03-16 11:06:57,585 [Worker-37: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
 2023-03-16 11:06:57,643 [Worker-37: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:47:53,910 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 11:47:53,960 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 11:47:53,963 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TASKS\StudentAPI\src\test\resources
+2023-03-16 11:47:57,116 [Worker-48: Launching StudentApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 11:47:57,131 [Worker-48: Launching StudentApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 11:47:57,138 [Worker-48: Launching StudentApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TASKS\StudentAPI\src\test\resources
+2023-03-16 11:47:57,236 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:47:57,304 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:47:57,373 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:48:08,914 [Worker-49: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:48:08,982 [Worker-49: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:48:09,048 [Worker-49: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:55:37,905 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 11:55:37,922 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-16 11:55:37,924 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TASKS\StudentAPI\src\test\resources
+2023-03-16 11:55:41,369 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:55:41,426 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:55:41,483 [Worker-48: Launching StudentApiApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EmployeeCRUDAPI: com.employeAPI:EmployeeCRUDAPI:0.0.1-SNAPSHOT with classifier null to /EmployeeCRUDAPI/target/classes
+2023-03-16 11:58:09,581 [Worker-48: Launching StudentApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-16 11:58:09,592 [Worker-48: Launching StudentApiApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource

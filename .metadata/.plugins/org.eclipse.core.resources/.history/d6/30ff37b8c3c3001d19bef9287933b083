@@ -77,13 +77,12 @@ public class StudentController {
 		@DeleteMapping("/deleteStudent/{id}")
 		public String deleteStudent(@PathVariable Integer id) {
 			if(studentrepository.existsById(id)) {
-				studentrepository.deleteById(id);
-				 return "Student with id " + id + " deleted successfully.";
+				
 			}
 		     
 				
 	        
-				return "Student with "+" "+id+" "+"Deleted Successfully";
+			return "Student with "+" "+id+" "+"Does not Exists";
 		}
 		
 		@GetMapping("/paging/{pageNo}/{pageSize}")
