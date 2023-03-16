@@ -1,0 +1,88 @@
+package com.example.demo.Studentcontroller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.el.stream.Optional;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.StudentRepository.StudentRepository;
+import com.example.demo.Studentmodel.student;
+
+
+@RestController
+@RequestMapping("/api/v1")
+public class StudentController {
+	@Autowired
+	StudentRepository studentrepository;
+	
+	@PostMapping("/post/studentSave")
+	public String addNewStudent(@RequestBody student student) {
+		studentrepository.save(student);
+		return "Student Added Successfully";
+	}
+		@GetMapping("/get/studentList")
+		public ResponseEntity<List<student>> getAllStudent(){
+			List<student> studentList = new ArrayList<>();
+			studentrepository.findAll().forEach(studentList::add);
+			return new ResponseEntity<List<student>>(studentList,HttpStatus.OK);
+		
+	}
+		
+	@GetMapping("/get/student/{id}")
+		public ResponseEntity<student> getStudentById(@PathVariable Integer id)  {  
+			student studentobj = studentrepository.findById(id).orElse(null);
+			 if (studentobj == null) {
+			        return ResponseEntity.notFound().build();
+			    }
+			    return ResponseEntity.ok().body(studentobj);
+			
+			
+		}
+		
+	@PutMapping("/update/student/{id}")
+			public String getStudentById(@PathVariable Integer id , @RequestBody student student) {
+			java.util.Optional<student> Student = studentrepository.findById(id);
+			if(Student.isPresent()) {
+				student Studentobj = Student.get();
+				Studentobj.setAge(student.getAge());
+				Studentobj.setDob(student.getDob());
+				Studentobj.setEmail(student.getEmail());
+				Studentobj.setGender(student.getGender());
+				Studentobj.setId(student.getId());
+				Studentobj.setName(student.getName());
+				Studentobj.setPhonenumber(student.getPhonenumber());
+				studentrepository.save(Studentobj);
+				return "Student Details against ID"+""+id+""+"Updated";
+			}else {
+				return "Student Details does not Exists";
+			}}
+			
+		@DeleteMapping("/deleteStudent/{id}")
+		public String deleteStudent(@PathVariable Integer id) {
+			
+				studentrepository.deleteById(id);
+				
+	        
+			return "Student with "+""+id+""+"Deleted Successfully";
+		}
+		
+			
+				
+				
+			
+			
+	
+		
+	}
+

@@ -5,6 +5,9 @@ import java.util.List;
 
 import org.apache.el.stream.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties.Pageable;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.PageRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -14,10 +17,13 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.StudentRepository.StudentRepository;
 import com.example.demo.Studentmodel.student;
+
+import ch.qos.logback.core.model.Model;
 
 
 @RestController
@@ -77,8 +83,14 @@ public class StudentController {
 			return "Student with "+""+id+""+"Deleted Successfully";
 		}
 		
+		@GetMapping("/paging/{pageNo}/{pageSize}")
+		public ResponseEntity<Page<student>> getAllStudent(@PathVariable Integer pageNo, @PathVariable Integer pageSize){
+		    PageRequest pageable = PageRequest.of(pageNo, pageSize);
+		    Page<student> student = studentrepository.findAll(pageable);
+		    return new ResponseEntity<>(student, HttpStatus.OK);
+		}
 			
-				
+		
 				
 			
 			
