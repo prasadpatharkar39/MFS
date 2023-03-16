@@ -16,7 +16,7 @@ public class student {
 @Column(name="id")	
 private int id;
 	@Column(name="name")
-public  String name;
+	public static String name;
 	@Column(name="dob")	
 private String dob;
 	@Column(name="age")	

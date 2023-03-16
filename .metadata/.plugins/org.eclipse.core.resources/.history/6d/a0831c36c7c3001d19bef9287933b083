@@ -12,11 +12,11 @@ import jakarta.persistence.Table;
 public class student {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.AUTO)
 @Column(name="id")	
 private int id;
 	@Column(name="name")
-public  String name;
+	public static String name;
 	@Column(name="dob")	
 private String dob;
 	@Column(name="age")	

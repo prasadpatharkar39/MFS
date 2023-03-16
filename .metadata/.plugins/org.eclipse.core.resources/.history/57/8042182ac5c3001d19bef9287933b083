@@ -83,7 +83,7 @@ public class StudentController {
 		     
 				
 	        
-				return "Student with "+" "+id+" "+"Does not Exists";
+				return "Student with "+" "+id+" "+"Deleted Successfully";
 		}
 		
 		@GetMapping("/paging/{pageNo}/{pageSize}")
