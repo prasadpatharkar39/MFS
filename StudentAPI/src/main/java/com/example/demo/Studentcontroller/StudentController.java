@@ -45,6 +45,12 @@ public class StudentController {
 			return new ResponseEntity<List<student>>(studentList,HttpStatus.OK);
 		
 	}
+		@GetMapping("/get/ByName")
+		public ResponseEntity<List<student>> findByname(@RequestParam("name") String name){
+			
+		return new ResponseEntity<List<student>>(studentrepository.findByNameContainsIgnoreCase(name),HttpStatus.OK);
+			
+		}
 		
 	@GetMapping("/get/student/{id}")
 		public ResponseEntity<student> getStudentById(@PathVariable Integer id)  {  
@@ -96,7 +102,10 @@ public class StudentController {
 		    HttpHeaders headers = new HttpHeaders();
 		    headers.add("X-Total-Count", String.valueOf(totalRecords));
 		    headers.add("X-Total-Pages", String.valueOf(totalPages));
-		    return ResponseEntity.ok().headers(headers).body(page);
+
+		    return ResponseEntity.ok()
+		            .headers(headers)
+		            .body(page);
 		    
 		}
 //		@GetMapping("/paging/{pageNo}/{pageSize}")

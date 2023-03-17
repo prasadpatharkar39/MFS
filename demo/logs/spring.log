@@ -1,0 +1,20 @@
+2023-50-08 09:50:19:428 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool --- run --- HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15h9m59s274ms300µs400ns).
+2023-15-08 12:15:41:524 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean --- destroy --- Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-15-08 12:15:41:672 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource --- close --- HikariPool-1 - Shutdown initiated...
+2023-15-08 12:15:41:732 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource --- close --- HikariPool-1 - Shutdown completed.
+2023-50-08 14:50:31:699 [main] INFO  com.magicflare.demo.DemoApplication --- logStarting --- Starting DemoApplication using Java 19 on DESKTOP-CP5HV5E with PID 6740 (C:\Users\bharat\Music\demo10101\demo\target\classes started by bharat in C:\Users\bharat\Music\demo10101\demo)
+2023-50-08 14:50:31:712 [main] INFO  com.magicflare.demo.DemoApplication --- logStartupProfileInfo --- The following 1 profile is active: "local"
+2023-50-08 14:50:34:264 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate --- registerRepositoriesIn --- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-50-08 14:50:34:663 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate --- registerRepositoriesIn --- Finished Spring Data repository scanning in 355 ms. Found 2 JPA repository interfaces.
+2023-50-08 14:50:37:774 [main] INFO  o.h.jpa.internal.util.LogHelper --- logPersistenceUnitInformation --- HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-50-08 14:50:38:137 [main] INFO  org.hibernate.Version --- logVersion --- HHH000412: Hibernate ORM core version 5.6.14.Final
+2023-50-08 14:50:38:937 [main] INFO  o.h.annotations.common.Version --- <clinit> --- HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-50-08 14:50:39:454 [main] INFO  com.zaxxer.hikari.HikariDataSource --- getConnection --- HikariPool-1 - Starting...
+2023-50-08 14:50:40:087 [main] INFO  com.zaxxer.hikari.HikariDataSource --- getConnection --- HikariPool-1 - Start completed.
+2023-50-08 14:50:40:228 [main] INFO  org.hibernate.dialect.Dialect --- <init> --- HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2023-50-08 14:50:43:007 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator --- initiateService --- HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-50-08 14:50:43:039 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean --- buildNativeEntityManagerFactory --- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-50-08 14:50:46:900 [main] INFO  com.magicflare.demo.DemoApplication --- logStarted --- Started DemoApplication in 16.821 seconds (JVM running for 18.861)
+2023-50-08 14:50:46:923 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean --- destroy --- Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-50-08 14:50:46:955 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource --- close --- HikariPool-1 - Shutdown initiated...
+2023-50-08 14:50:46:986 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource --- close --- HikariPool-1 - Shutdown completed.
