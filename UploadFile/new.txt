@@ -1,0 +1,23 @@
+01230023John     Smith   0176248385 john.smith@gmail.comU
+00320067Michael  Davis   0901532496 michael.davis@hotmail.comD
+00890045Lisa     Wilson  0345867311 lisa.wilson@yahoo.comU
+00750098Sarah    Johnson 0179356422 sarah.johnson@outlook.comU
+00140011David    Garcia  0132987156 david.garcia@mail.comD
+00950079Kevin    Anderson0733045921 kevin.anderson@aol.comA
+00020008Emma     Taylor  0143079360 emma.taylor@icloud.comA
+00240073Brian    Brown   0617218596 brian.brown@protonmail.comD
+00350002Julia    Jones   0429856271 julia.jones@zoho.comU
+00680061Emily    Williams0546127384 emily.williams@fastmail.comD
+00590089Michael  Taylor  0428203854 michael.taylor@icloud.comD
+00810055Sarah    Davis   0214968730 sarah.davis@yahoo.comA
+00570002Kevin    Johnson 0321683957 kevin.johnson@mail.comU
+00910011Lisa     Smith   0876931245 lisa.smith@gmail.comD
+00640043David    Anderson0214873592 david.anderson@aol.comD
+00060018Emma     Brown   0176392458 emma.brown@outlook.comD
+00580046Julia    Garcia  0891572640 julia.garcia@hotmail.comU
+00370078Brian    Wilson  0942137862 brian.wilson@gmail.comA
+00440065Michael  Johnson 0915372085 michael.johnson@icloud.comA
+00850052Sarah    Davis   0547321960 sarah.davis@hotmail.comU
+00220014Kevin    Taylor  0394865172 kevin.taylor@outlook.comU
+00040059Lisa     Williams0789352461 lisa.williams@aol.comA
+00710082David    Garcia  0641729538 david.garcia@mail.comU

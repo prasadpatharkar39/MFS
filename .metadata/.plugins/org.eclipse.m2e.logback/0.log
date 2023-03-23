@@ -2166,3 +2166,399 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2023-03-19 18:32:57,238 [Worker-1: Launching NewTaskApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FileUploadApi: com.example.FileUploadApi:FileUploadApi:0.0.1-SNAPSHOT with classifier null to /FileUploadApi/target/classes
 2023-03-19 18:32:57,329 [Worker-1: Launching NewTaskApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FileUploadApi: com.example.FileUploadApi:FileUploadApi:0.0.1-SNAPSHOT with classifier null to /FileUploadApi/target/classes
 2023-03-19 18:32:57,426 [Worker-1: Launching NewTaskApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FileUploadApi: com.example.FileUploadApi:FileUploadApi:0.0.1-SNAPSHOT with classifier null to /FileUploadApi/target/classes
+2023-03-19 18:58:45,426 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newTask:newTask:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\newTask\pom.xml.
+2023-03-19 18:58:45,977 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:58:45,993 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:58:45,993 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\newTask\src\test\resources
+2023-03-19 18:58:47,976 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newTask:newTask:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\newTask\pom.xml.
+2023-03-19 18:58:48,305 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-19 18:58:48,305 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-19 18:58:48,320 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\newTask\src\test\resources
+2023-03-20 09:59:20,068 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-20 09:59:22,280 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 09:59:22,305 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 09:59:22,313 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\newTask\src\test\resources
+2023-03-20 10:18:22,192 [Worker-9: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 10:18:22,335 [Worker-9: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 10:18:22,452 [Worker-9: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 10:18:22,572 [Worker-9: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 10:38:49,744 [Worker-24: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 10:38:50,319 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 10:38:50,320 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 10:38:50,326 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 10:38:50,333 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 10:38:50,590 [Worker-24: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-03-20 10:38:50,593 [Worker-24: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 10:38:50,707 [Worker-24: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 10:38:50,981 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 10:38:50,981 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 10:38:50,982 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 10:38:50,982 [Worker-24: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 10:38:51,186 [Worker-24: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-20 14:04:49,124 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTaskApplication references non-existing project newTask.
+org.eclipse.core.runtime.CoreException: Launch configuration NewTaskApplication references non-existing project newTask.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-20 14:04:49,126 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTaskApplication references non-existing project newTask.
+org.eclipse.core.runtime.CoreException: Launch configuration NewTaskApplication references non-existing project newTask.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-20 14:04:49,132 [Worker-86: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration NewTaskApplication references non-existing project newTask.
+org.eclipse.core.runtime.CoreException: Launch configuration NewTaskApplication references non-existing project newTask.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-03-20 15:01:11,693 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-20 16:58:06,357 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 16:58:07,877 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 16:58:07,878 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 16:58:07,883 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 16:58:07,894 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 16:58:08,409 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2023-03-20 16:58:08,414 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 16:58:08,629 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 16:58:09,034 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 16:58:09,035 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 16:58:09,035 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 16:58:09,035 [Worker-17: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 16:58:09,466 [Worker-17: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-20 17:32:58,681 [Worker-32: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 17:32:58,860 [Worker-32: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 17:32:58,968 [Worker-32: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 17:32:59,074 [Worker-32: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 17:51:45,138 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:StudentAPI:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\pom.xml.
+2023-03-20 17:51:45,372 [Worker-55: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 17:52:02,356 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:StudentAPI:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\pom.xml.
+2023-03-20 17:52:02,477 [Worker-53: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 17:52:02,717 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 17:52:02,718 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 17:52:02,720 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\src\test\resources
+2023-03-20 17:52:03,986 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 17:52:03,998 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 17:52:04,001 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\src\test\resources
+2023-03-20 17:53:51,136 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 17:53:51,350 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 17:53:51,652 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 17:53:51,653 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 17:53:51,653 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 17:53:51,653 [Worker-54: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 17:53:51,852 [Worker-54: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-20 17:57:15,641 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 17:57:15,701 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 17:57:15,704 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\src\test\resources
+2023-03-20 18:00:06,020 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 18:00:06,100 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 18:00:06,109 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-20 18:00:10,978 [Worker-6: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 18:00:11,222 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 18:00:11,237 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 18:00:11,253 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\src\test\resources
+2023-03-20 18:00:59,284 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-20 18:02:36,637 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 18:02:37,667 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 18:02:38,117 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 18:02:38,117 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 18:02:38,118 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 18:02:38,118 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 18:02:38,333 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-20 18:17:40,896 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-20 18:17:41,130 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-20 18:17:41,704 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-20 18:17:41,705 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 18:17:41,705 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-20 18:17:41,706 [Worker-19: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-20 18:17:41,932 [Worker-19: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-20 18:40:42,438 [Worker-33: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 18:40:42,550 [Worker-33: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 18:40:42,662 [Worker-33: Launching PredictionMode.AltAndContextMap] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier null to /demo/target/classes
+2023-03-20 23:15:59,147 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 23:15:59,172 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 23:15:59,176 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-20 23:16:00,757 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-20 23:16:00,843 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 23:16:00,864 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 23:16:00,868 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\StudentAPI\src\test\resources
+2023-03-20 23:16:04,751 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-20 23:19:27,934 [Worker-2: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 23:19:27,946 [Worker-2: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 23:19:27,949 [Worker-2: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-20 23:20:16,812 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 23:20:16,816 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 23:20:16,819 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-20 23:24:08,852 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 23:24:08,858 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-20 23:24:08,861 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 09:54:24,073 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 10:41:57,859 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 10:41:57,880 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 10:41:57,885 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 10:42:47,325 [Worker-13: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-21 11:22:30,518 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:22:30,518 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:22:30,524 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:23:53,707 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:23:53,717 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:23:53,723 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:24:35,321 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:24:35,329 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:24:35,335 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:29:59,192 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:29:59,197 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:29:59,200 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:30:15,190 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:30:15,197 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:30:15,202 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:31:28,165 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:31:28,169 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:31:28,172 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:32:40,119 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:32:40,126 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:32:40,129 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:32:52,601 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:32:52,604 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:32:52,607 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:33:05,557 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:33:05,563 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:33:05,566 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:33:42,825 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:33:42,831 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:33:42,833 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:34:14,992 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:34:14,996 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:34:14,998 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:34:25,862 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:34:25,867 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:34:25,869 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:35:45,429 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:35:45,435 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:35:45,436 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:37:58,653 [Worker-25: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/demo: com.magicflare:demo:0.0.1-SNAPSHOT with classifier  to /demo/target/classes
+2023-03-21 11:51:11,488 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:51:11,494 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:51:11,496 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:51:39,320 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:51:39,356 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:51:39,360 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 11:53:13,421 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 11:53:13,425 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 11:53:13,427 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:10:05,156 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:10:05,161 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:10:05,165 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:10:21,864 [Worker-30: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:10:21,870 [Worker-30: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:10:21,873 [Worker-30: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:39:26,733 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:39:26,739 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:39:26,741 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:42:36,240 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:42:36,246 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:42:36,248 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:54:11,389 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:54:11,395 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:54:11,398 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 12:59:10,000 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 12:59:10,003 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 12:59:10,005 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:00:04,163 [Worker-51: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:00:04,179 [Worker-51: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:00:04,179 [Worker-51: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:11:14,579 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:11:14,582 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:11:14,584 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:40:40,603 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:40:40,607 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:40:40,609 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:41:25,037 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:41:25,043 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:41:25,046 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:43:07,818 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:43:07,829 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:43:07,836 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:43:14,687 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:43:14,698 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:43:14,706 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:44:31,566 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:44:31,573 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:44:31,577 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:45:25,016 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:45:25,021 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:45:25,023 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:46:21,660 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:46:21,667 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:46:21,669 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:55:47,518 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:55:47,524 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:55:47,526 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:57:50,569 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:57:50,574 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:57:50,577 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 13:59:44,127 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 13:59:44,132 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 13:59:44,135 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:02:14,265 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:02:14,271 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:02:14,273 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:26:07,571 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:26:07,578 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:26:07,581 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:27:54,100 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:27:54,110 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:27:54,116 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:35:22,948 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:35:22,959 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:35:22,964 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:43:43,844 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:43:43,850 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:43:43,852 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 14:43:53,248 [Worker-80: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 14:43:53,257 [Worker-80: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 14:43:53,260 [Worker-80: Launching UploadFile - UploadFileApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:06:19,489 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-21 15:08:01,640 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:08:01,659 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:08:01,663 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:09:58,022 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-21 15:09:59,030 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-21 15:09:59,416 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-21 15:09:59,416 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-21 15:09:59,417 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-21 15:09:59,417 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-21 15:09:59,676 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-21 15:13:52,899 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-21 15:13:53,090 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-21 15:13:53,350 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/main/java
+2023-03-21 15:13:53,350 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-21 15:13:53,350 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UploadFile/src/main/resources
+2023-03-21 15:13:53,351 [Worker-8: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UploadFile/src/test/java
+2023-03-21 15:13:53,535 [Worker-8: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-21 15:14:38,561 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-21 15:14:38,800 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:14:38,801 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:14:38,804 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:14:40,052 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:14:40,077 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:14:40,082 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:15:19,524 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:UploadFile:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\pom.xml.
+2023-03-21 15:15:19,858 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:15:19,858 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:15:19,861 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:15:21,157 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:15:21,171 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:15:21,174 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\UploadFile\src\test\resources
+2023-03-21 15:16:48,397 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:ApachePdfBox:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\pom.xml.
+2023-03-21 15:16:48,785 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApachePdfBox/src/main/java
+2023-03-21 15:16:48,786 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApachePdfBox/src/main/resources
+2023-03-21 15:16:48,791 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApachePdfBox/src/main/resources
+2023-03-21 15:16:48,798 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApachePdfBox/src/test/java
+2023-03-21 15:16:49,006 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-21 15:16:49,007 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-21 15:16:49,149 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:ApachePdfBox:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\pom.xml.
+2023-03-21 15:16:49,434 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApachePdfBox/src/main/java
+2023-03-21 15:16:49,435 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApachePdfBox/src/main/resources
+2023-03-21 15:16:49,435 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ApachePdfBox/src/main/resources
+2023-03-21 15:16:49,435 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ApachePdfBox/src/test/java
+2023-03-21 15:16:49,647 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-21 15:18:02,203 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.UploadFile:ApachePdfBox:0.0.1-SNAPSHOT @ D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\pom.xml.
+2023-03-21 15:18:02,527 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:18:02,527 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:18:02,529 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:18:03,794 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.27/pdfbox-2.0.27-sources.jar
+2023-03-21 15:18:03,951 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:18:03,967 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:18:03,970 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:18:04,226 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/pdfbox/2.0.27/pdfbox-2.0.27-sources.jar
+2023-03-21 15:18:04,229 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:pdfbox:2.0.27
+2023-03-21 15:18:04,432 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.27/fontbox-2.0.27-sources.jar
+2023-03-21 15:18:04,746 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/pdfbox/fontbox/2.0.27/fontbox-2.0.27-sources.jar
+2023-03-21 15:18:04,748 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.pdfbox:fontbox:2.0.27
+2023-03-21 15:18:04,923 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-03-21 15:18:05,056 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-03-21 15:18:05,058 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2023-03-21 15:18:06,016 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:18:06,016 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:18:06,018 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:20:44,475 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:20:44,481 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:20:44,483 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:21:02,690 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:21:02,695 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:21:02,697 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:25:10,782 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:25:10,790 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:25:10,796 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:25:17,500 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:25:17,505 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:25:17,507 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:25:34,136 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:25:34,139 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:25:34,142 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:30:28,014 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:30:28,019 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:30:28,021 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:31:25,263 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:31:25,271 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:31:25,273 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 15:33:35,020 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 15:33:35,023 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 15:33:35,025 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-21 18:05:48,611 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-21 18:05:48,619 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-21 18:05:48,620 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\MIT\MAGICFLARE\TASKS\MFS-master\MFS\ApachePdfBox\src\test\resources
+2023-03-22 21:37:28,559 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
